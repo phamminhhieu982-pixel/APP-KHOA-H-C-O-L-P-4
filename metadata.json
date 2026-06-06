@@ -1,0 +1,6 @@
+{
+  "name": "Khoa Học Ảo Lớp 4",
+  "description": "Phòng thí nghiệm khoa học ảo STEM tương tác chất lượng cao dành cho học sinh Lớp 4 theo Chương trình GDPT 2018 Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
